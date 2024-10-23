@@ -1,0 +1,10 @@
+C:\Users\Mensi\source\repos\EgitimKampi\EgitimKampi\bin\Debug\EgitimKampi.exe.config
+C:\Users\Mensi\source\repos\EgitimKampi\EgitimKampi\bin\Debug\EgitimKampi.exe
+C:\Users\Mensi\source\repos\EgitimKampi\EgitimKampi\bin\Debug\EgitimKampi.pdb
+C:\Users\Mensi\source\repos\EgitimKampi\EgitimKampi\obj\Debug\EgitimKampi.csproj.AssemblyReference.cache
+C:\Users\Mensi\source\repos\EgitimKampi\EgitimKampi\obj\Debug\EgitimKampi.Form1.resources
+C:\Users\Mensi\source\repos\EgitimKampi\EgitimKampi\obj\Debug\EgitimKampi.Properties.Resources.resources
+C:\Users\Mensi\source\repos\EgitimKampi\EgitimKampi\obj\Debug\EgitimKampi.csproj.GenerateResource.cache
+C:\Users\Mensi\source\repos\EgitimKampi\EgitimKampi\obj\Debug\EgitimKampi.csproj.CoreCompileInputs.cache
+C:\Users\Mensi\source\repos\EgitimKampi\EgitimKampi\obj\Debug\EgitimKampi.exe
+C:\Users\Mensi\source\repos\EgitimKampi\EgitimKampi\obj\Debug\EgitimKampi.pdb
